@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+#footer{
+    color : white;
+    width: 100%;
+    text-align: center;
+    padding:25px 10px;
+    margin-bottom: 30px;
+}
